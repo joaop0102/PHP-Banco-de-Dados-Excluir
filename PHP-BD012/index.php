@@ -18,7 +18,8 @@
             <h3 class="textinho">Cadastre-se</h3>
             <hr style="width: 50%; margin: auto;">
             </div>
-            <form action="cadastrar2.php" method="POST">
+            <div class="ajustecard">
+            <form action="cadastrar2.php" method="POST">    
                 <div class="campo ajusteform">
                     <input name="nome" type="text" required="">
                     <label >Nome:</label>
@@ -47,7 +48,7 @@
                 <button type="submit" class="btn btn-outline-success">Cadastrar</button>
                 </div>
             </form>
-                
+             </div>
             </div>
         </div>
     </div>
